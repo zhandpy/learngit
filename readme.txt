@@ -1,2 +1,2 @@
-this is a test
-test for git
+Git is a distributed version control system.
+Git is free software.
